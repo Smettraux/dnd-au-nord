@@ -60,7 +60,7 @@ Elle tente en priorité de protéger les villageois.
 
 Je tente d'éteindre les sources lumineuses avec ma magie. Je ne suis pas très doué, mais suffisamment pour éteindre les torches, les lampes à huile, et les braseros qui délimitent les chemins du village.
 
-ETEIGNEZ LES FEUX ! Crie Eileen. La Mère Sigrund répète son appel et les villageois s'exécutent.
+"ETEIGNEZ LES FEUX !" - Crie Eileen. La Mère Sigrund répète son appel et les villageois s'exécutent.
 
 Les bêtes semblent désorientées. La plus grande, le chef, semble hésiter. Elle se tourne vers nous, et nous fixe.
 
