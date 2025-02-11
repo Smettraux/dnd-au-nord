@@ -1,3 +1,6 @@
+# John MacKenzie
+## Rôdeur, Ancien soldat
+
 Autrefois, John était un soldat d’élite dans l’armée d’un puissant royaume. Engagé dès son plus jeune âge, il a gravi les échelons grâce à son talent pour le pistage et le combat en milieu sauvage. Il servait dans une unité spéciale chargée des missions de reconnaissance derrière les lignes ennemies, traquant les espions, sabotant les ressources adverses et protégeant les frontières contre les incursions.
 
 Mais la guerre est une maîtresse cruelle. Lors d'une mission cruciale, son escouade a été trahie par l’un des leurs. Pris en embuscade, ses compagnons tombèrent un à un, et John ne survécut que grâce à son instinct et à sa connaissance des forêts environnantes. Après des jours d’errance dans la nature, blessé et hanté par la mort de ses frères d’armes, il regagna enfin la civilisation... mais ce n’était plus son monde.
