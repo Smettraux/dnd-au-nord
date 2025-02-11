@@ -18,5 +18,8 @@ Cette page répertorie les quêtes et les événements de la campagne "Au Nord".
 ## 5. Objets d'importance
 - **Rapière de lumière lunaire** - Arme de Athgar, forgée sous la lumière des lunes.
 
-## 6. Détails de la campagne
+## 6. Véhicules
+- **Bateau de pêche** - Bateau utilisé par les habitants de Vetrgard pour la pêche. Donné aux aventuriers pour leur quête.
+
+## 7. Détails de la campagne
 Les détails se trouvent dans les fichiers de la campagne.

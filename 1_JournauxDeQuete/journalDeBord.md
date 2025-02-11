@@ -140,4 +140,4 @@ Nous écoutons les mises en garde de Sigrun
 Nous partons donc pour la ville, et nous nous préparons à affronter les dangers de la rivière.
 
 !lvlup! - 2
-## 2025.02.xx - (Session 2)
+## 2025.02.25 - (Session 2)
