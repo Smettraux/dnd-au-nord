@@ -67,3 +67,68 @@ Les bêtes semblent désorientées. La plus grande, le chef, semble hésiter. El
 Après une seconde qui me semble une éternité, elle se lance vers nous avec 3 de ses sbires...
 
 ## COMBAT
+
+1. **Athgar** - Dissonant Whisper on wolf 3 - Wis13 → hits - 6 DMG
+Bardic inspiration on John
+2. **John** - Marque du chasseur sur le wolf 1
+Attaque a l'arbalète sur le wolf 1 - MISS
+3. **Eileen** - Tente de frapper un wolf 1 au quarterstaff - 7 DMG
+> le loup est blessé et titube
+4. **Shaygan** - Protège Eileen du wolf 1, et attaque avec son harpon - MISS
+5. **Lucia** - Attaque le wolf 1 - MISS
+
+6. **Wolf 3** - s'enfuit
+7. **Wolf 1** - Attaque Shaygan - 6 DMG
+8. **Wolf 2** - Attaque Lucia - MISS
+9. **Athgar** - Vicious Mockery Wolf 1 - MISS
+10. **John** - Arbalète Wolf 2 - MISS
+11. **Eileen** - QStaff Wolf 1 - 3 DMG
+> le loup s'écroule, mais n'est pas mort
+> Eileen tente de pousser le loup dans l'eau, mais n'y arrive pas.
+12. **Shaygan** - prefère s'assoir et se concentrer sur sa plaie.
+13. **Lucia** - Attaque Wolf 2 - 7 DMG
+7. **Wolf 2** - Attaque Lucia - MISS
+> Le loup tente une fuite, mais Lucia tente une attaque d'opportunité - MISS
+
+------- FIN DU COMBAT -------
+Les loups s'enfuient, et nous nous retrouvons en paix dans le village.
+
+Eileen prodigue les premiers soins à Shaygan, et nous nous occupons des blessés. Les villageois sont reconnaissants.
+
+Le village est desormais plogé dans la nuit, sous la lumière pâle de la lune.
+
+Orthkar et la Mère Sigrund s'approchent et nous remercient. Nous prenons le temps d'étudier le loup maintenant mort a nos pieds. Il est étrange... Je ne me rappelle pas avoir vu de loup de la sorte.
+
+Eileen et John semblent d'accord. Ils ont vu des loups, mais jamais de cette taille. Eileen semble se souvenir d'avoir vu des créature similaires dans un livre. D'après elle, elles semblent appartenir à un passé lointain, et rien de tel n'a été vu depuis des siècles.
+Cette ----- me donne des frissons. Ainsi que des idées pour de nouvelles chansons.
+
+Après avoir aidé les villageois à se remettre de leurs émotions, et après avoir soigné ceux qui pouvaient l'être, nous comptons les morts. Il y a des pertes, mais le village est sauf.
+
+Lucia et Orthkar organisent la suite des événements. Des tours de gardes sont mis en place, et nous sommes invités à nous y joindre.
+
+Eileen refuse poliment et se retire auprès de sa meute pour enquêter.
+
+En revanche, j'accepte, tandis que John et Shaygan se retirent pour se reposer.
+
+> Je me tiens donc en garde, aux côtés de Lucia et Orthkar, et je chante pour les villageois. Je chante pour les morts, pour les vivants, pour les disparus. Je chante pour les loups, pour les monstres, pour les hommes.
+> Je chante pour moi, pour mes compagnons, pour mes amis.
+> Je chante pour la nuit, pour la lune, pour le feu.
+
+Au retour de notre patrouille, les villageois sont au travail.
+Ils sont inquiets mais déterminés. Ils se préparent à la reconstruction, et au deuil.
+
+Je me retire pour la nuit, et je m'endors, le coeur lourd.
+
+------- le lendemain -------
+
+Au matin, nous sommes mandés par Orthkar. Nous participons à un conseil de guerre. Les villageois sont inquiets, et ils ont peur. Ils veulent des réponses, et des solutions.
+Démunis, et n'étant pas guerriers, ils se tournent vers nous.
+
+Lucia prend la parole. Elle relate les événements de la nuit, et elle explique ce qu'elle sait des loups. Elle parle de la menace, et de la nécessité de se préparer à vivre dans l'obscurité le temps de régler ce problème.
+
+Orthkar propose de contacter la garnison de la ville voisine, mais il faudra du temps. Il relève que les bêtes étant attirées par la lumière, un phénommène magique doit être à l'oeuvre.
+Il s'adresse à Shaygan, qui semble être le plus à même de comprendre ce qui se passe.
+
+Shaygan propose de les traquer pour en découvrir plus, mais Brise-Hiver refuse. Il ne veut pas prendre de risques inutiles.
+
+Il propose alors de nous envoyer, nous, pour chercher de l'aide dans la ville au Sud. Nous acceptons.
