@@ -1,4 +1,5 @@
-# 2025.02.11 - (Session 1)
+# Journal d'Athgar
+## 2025.02.11 - (Session 1)
 
 Aujourd'hui, au détour de mon chemin pour la cérémonie annuelle du village de Vetrgard, j'ai rencontré mes compagnons.
 J'avais déjà aperçu certains de leurs visages, mais c'est la première fois que nous nous retrouvons tous ensemble.
@@ -66,7 +67,7 @@ Les bêtes semblent désorientées. La plus grande, le chef, semble hésiter. El
 
 Après une seconde qui me semble une éternité, elle se lance vers nous avec 3 de ses sbires...
 
-## COMBAT
+### COMBAT
 
 1. **Athgar** - Dissonant Whisper on wolf 3 - Wis13 → hits - 6 DMG
 Bardic inspiration on John
@@ -132,3 +133,10 @@ Il s'adresse à Shaygan, qui semble être le plus à même de comprendre ce qui 
 Shaygan propose de les traquer pour en découvrir plus, mais Brise-Hiver refuse. Il ne veut pas prendre de risques inutiles.
 
 Il propose alors de nous envoyer, nous, pour chercher de l'aide dans la ville au Sud. Nous acceptons.
+Il nous donne alors des vivres et un bateau pour descendre la rivière.
+Nous écoutons les mises en garde de Sigrun
+> Faites attention à la brume / quand les lunes se joignent/ les reflets des lunes frémissent sur l'eau.
+
+Nous partons donc pour la ville, et nous nous préparons à affronter les dangers de la rivière.
+
+## 2025.02.xx - (Session 2)
