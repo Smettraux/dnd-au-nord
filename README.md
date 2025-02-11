@@ -3,10 +3,13 @@
 Cette page répertorie les quêtes et les événements de la campagne "Au Nord". Les événements sont classés par ordre chronologique, et est écrit du point de vue de Athgar, un barde nain.
 
 ## 1. Quêtes
-- [ ] **Quête 1** - *Titre de la quête* - Description de la quête.
+- [x] **Quête 1** - *Rite de passage* - Passer une nuit de méditation dans la cabane du village.
+- [x] **Quête 2** - *Défendre le village* - Défendre le village de l'attaque des monstres.
+- [ ] **Quête 3** - *Demander de l'aide à la garnison au sud* - Aller chercher de l'aide à la garnison au sud. Naviguer sur la rivière pour s'y rendre.
 
 ## 2. Événements
-- **Événement 1** - *Titre de l'événement* - Description de l'événement.
+- **Événement 1** - *Cérémonie du rite de passage* - Description de l'événement.
+- **Événement 2** - *Défense du village* - Description de l'événement.
 
 ## 3. Personnages
 - **Athgar** - Barde nain, conteur. Il écrit le journal de bord de la campagne "Au Nord".
