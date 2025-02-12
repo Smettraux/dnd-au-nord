@@ -1,6 +1,6 @@
 # AU NORD - Journaux de campagne
 ## 0. Introduction
-Cette page répertorie les quêtes et les événements de la campagne "Au Nord". Les événements sont classés par ordre chronologique, et est écrit du point de vue de Athgar, un barde nain.
+Cette page répertorie les quêtes et les événements de la campagne "Au Nord". Les événements sont classés par ordre chronologique, et le journal est écrit du point de vue d'Athgar, un barde nain.
 
 ## 1. Quêtes
 - [x] **Quête 1** - *Rite de passage* - Passer une nuit de méditation dans la cabane du village.
