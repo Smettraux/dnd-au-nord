@@ -74,8 +74,8 @@ Après une seconde qui me semble une éternité, elle se lance vers nous avec 3 
 |**John**|Marque du chasseur|Wolf 1| | |
 |**John**|Attaque arbalète|Wolf 1|Miss| |
 |**Eileen**|Attaque au bâton|Wolf 1|Hit|7|
-|Le loup s'écroule, mais n'est pas mort|
-|Eileen tente de pousser le loup dans l'eau, mais n'y arrive pas.|
+||Le loup s'écroule, mais n'est pas mort|
+||Eileen tente de pousser le loup dans l'eau, mais n'y arrive pas.|
 |**Shaygan**|Attaque au harpon|Wolf 1|Miss| |
 |**Lucia**|Attaque à l'épée|Wolf 1|Miss| |
 |**Wolf 3**|Prend la fuite| | | |
