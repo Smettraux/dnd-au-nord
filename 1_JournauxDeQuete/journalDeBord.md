@@ -91,6 +91,29 @@ Attaque a l'arbalète sur le wolf 1 - MISS
 7. **Wolf 2** - Attaque Lucia - MISS
 > Le loup tente une fuite, mais Lucia tente une attaque d'opportunité - MISS
 
+|--|--|--|--|--|
+|Attaquant|Action|Cible|Hit/Miss|DMG|
+|==|==|==|==|==|
+|Athgar|Dissonant Whisper|Wolf 3|Hit|6|
+|John|Marque du chasseur|Wolf 1| | |
+|John|Attaque arbalète|Wolf 1|Miss| |
+|Eileen|Attaque au bâton|Wolf 1|Hit|7|
+|Shaygan|Attaque au harpon|Wolf 1|Miss| |
+|Lucia|Attaque à l'épée|Wolf 1|Miss| |
+|Wolf 3|Prend la fuite| | | |
+|Wolf 1|Attaque|Shaygan|Hit|6|
+|Wolf 2|Attaque|Lucia|Miss| |
+|Athgar|Vicious Mockery|Wolf 1|Miss| |
+|John|Attaque arbalète|Wolf 2|Miss| |
+|Eileen|Attaque au bâton|Wolf 1|Hit|3|
+> Le loup s'écroule, mais n'est pas mort
+> Eileen tente de pousser le loup dans l'eau, mais n'y arrive pas.
+|Shaygan|S'assoit en retrait pour panser ses plaies| | | |
+|Lucia|Attaque à la masse|Wolf 2|Hit|7|
+|Wolf 2|Attaque|Lucia|Miss| |
+> Le loup tente une fuite, mais Lucia tente une attaque d'opportunité - MISS
+|--|--|--|--|--|
+
 ------- FIN DU COMBAT -------
 Les loups s'enfuient, et nous nous retrouvons en paix dans le village.
 
