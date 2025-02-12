@@ -1,6 +1,6 @@
 # AU NORD - Journaux de campagne
 ## 0. Introduction
-Cette page répertorie les quêtes et les événements de la campagne "Au Nord". Les événements sont classés par ordre chronologique, et est écrit du point de vue de Athgar, un barde nain.
+Cette page répertorie les quêtes et les événements de la campagne "Au Nord". Les événements sont classés par ordre chronologique, et le [**journal**](/1_JournauxDeQuete/journalDeBord.md) est écrit du point de vue d'Athgar, un barde nain.
 
 ## 1. Quêtes
 - [x] **Quête 1** - *Rite de passage* - Passer une nuit de méditation dans la cabane du village.
@@ -12,14 +12,21 @@ Cette page répertorie les quêtes et les événements de la campagne "Au Nord".
 - **Événement 2** - *Défense du village* - Description de l'événement.
 
 ## 3. Personnages
-- **Athgar** - Barde nain, conteur. Il écrit le journal de bord de la campagne "Au Nord".
-- **John MacKenzie** - Ancien soldat rencontré lors de la cérémonie annuelle du village de Vetrgard.
+### Aventuriers
+- [**Athgar**](/3_Personnages/Backstory_Athgar.md) - Barde nain, conteur. Il écrit le journal de bord de la campagne "Au Nord".
+- [**John MacKenzie**](/3_Personnages/Backstory_John-MacKenzie.md) - Ancien soldat rencontré lors de la cérémonie annuelle du village de Vetrgard.
+- [**Eileen**](/3_Personnages/Backstory_Eileen.md) - Druide demi-elfe, enfant sauvage vivant avec les loups.
+- [**Lucia**](/3_Personnages/Backstory_Lucia.md) - Paladin humaine, missionnaire au village de Vetrgard.
+- [**Shaygan**](/3_Personnages/Backstory_Shaygan.md) - Mage humain, amnésique, rencontré lors de la défense du village.
+### PNJ
+- [**Orkthar**](/3_Personnages/Orkthar.md) - Chef du village de Vetrgard.
+- [**Mère Sigrund**](/3_Personnages/Vertgrad_Sigrund.md) - Shamane et savante du village de Vetrgard.
 
 ## 4. Lieux
-- **Vetrgard** - Village où les aventuriers se sont rencontrés en début de campagne.
+- [**Vetrgard**](/4_Lieux/Vetrgrad.md) - Village où les aventuriers se sont rencontrés en début de campagne.
 
 ## 5. Objets d'importance
-- **Rapière de lumière lunaire** - Arme de Athgar, forgée sous la lumière des lunes.
+- [**Rapière de lumière lunaire**](/5_Objets/Rapiere-lumiere-lunaire.md) - Arme de Athgar, forgée sous la lumière des lunes.
 
 ## 6. Véhicules
 - **Bateau de pêche** - Bateau utilisé par les habitants de Vetrgard pour la pêche. Donné aux aventuriers pour leur quête.
