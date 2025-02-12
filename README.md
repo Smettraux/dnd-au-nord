@@ -12,7 +12,7 @@ Cette page répertorie les quêtes et les événements de la campagne "Au Nord".
 - **Événement 2** - *Défense du village* - Description de l'événement.
 
 ## 3. Personnages
-- **Athgar** - Barde nain, conteur. Il écrit le journal de bord de la campagne "Au Nord".
+- [**Athgar**](/3_Personnages/Backstory_Athgar.md) - Barde nain, conteur. Il écrit le journal de bord de la campagne "Au Nord".
 - **John MacKenzie** - Ancien soldat rencontré lors de la cérémonie annuelle du village de Vetrgard.
 
 ## 4. Lieux
